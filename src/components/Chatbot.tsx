@@ -65,7 +65,7 @@ const bounceStyles = `
 const initialHistory: Message[] = [
   {
     role: 'bot',
-    content: "Hello! I'm VM Bot, an AI assistant designed to provide information about Vijay Makkad. Ask me anything about his background, career, skills, hobbies, or interests!",
+    content: "Hello! I'm Jinii Bot, an AI assistant designed to provide information about Jainish Jain. Ask me anything about his background, career, skills, hobbies, or interests!",
   },
 ];
 

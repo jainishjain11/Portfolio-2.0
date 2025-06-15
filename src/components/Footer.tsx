@@ -34,7 +34,7 @@ export const Footer = () => {
           Let's work together.
         </h2>
         <p className="text-zinc-600 dark:text-gray-400 text-base md:text-lg">
-          Integrating Web Development and Machine Learning Solutions.
+          Integrating Software Development and Machine Learning Solutions.
         </p>
         <div className="flex justify-center gap-2 md:gap-3 mt-4 md:mt-6">
           <Button
