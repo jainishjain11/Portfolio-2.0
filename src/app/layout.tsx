@@ -38,7 +38,7 @@ export default function RootLayout({
               {children}
               <Toaster />
             </main>
-            <ChatBot config={vmBotConfig} />
+            <ChatBot/>
           </div>
         </ThemeProvider>
       </body>
