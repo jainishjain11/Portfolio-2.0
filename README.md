@@ -29,16 +29,6 @@ I’ve built this website to be a **central hub** for everything I’ve worked o
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **PillPal** | A medication reminder app built with Flutter | Flutter, Hive, Android Alarm Manager |
-| **ISTC Seat Allocation** | A React + Next.js portal for government seat allotment | React.js, Next.js, MySQL |
-| **Microplastic Detector** | Detects microplastics in drinking water using AI | Python, Vision Transformers (ViT) |
-| **This Website** | My own developer portfolio with animations and chatbot! | Next.js, Tailwind CSS, Framer Motion |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -47,26 +37,16 @@ I’ve built this website to be a **central hub** for everything I’ve worked o
 - Tailwind CSS, Framer Motion  
 - Lucide Icons, TypeScript  
 
-**Backend & Tools:**  
-- Firebase, Supabase  
+**Backend & Tools:**   
 - Prisma, Git, GitHub  
 - Figma (for UI design)  
-
+- Vercel (for Deployement)
 ---
 
-## 🎯 Goals
-
-- Build more AI/ML-powered tools  
-- Learn advanced backend dev (Supabase, Prisma, PostgreSQL)  
-- Publish mobile apps on the Play Store  
-- Stay consistent with open-source contributions  
-
----
 
 ## 📸 Sneak Peek
 
-![Screenshot](https://user-images.githubusercontent.com/your_screenshot.png)  
-*(Add an actual screenshot or GIF here)*
+![Portfolio Screenshot](assets/portfolio-preview.png)
 
 ---
 
@@ -85,11 +65,6 @@ I’ve added a custom-built chatbot to this portfolio — it answers FAQs about 
 
 ---
 
-## 🧠 Fun Fact
-
-> When I demo my projects, my parents’ first question is always — “*Did you really make this yourself?*” 😄
-
----
 
 ## 📌 How to Run Locally
 
