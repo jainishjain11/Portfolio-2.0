@@ -25,7 +25,7 @@ I’ve built this website to be a **central hub** for everything I’ve worked o
 - **🚀 Projects:** Highlighted work including PillPal, ISTC Seat Portal, and AI-based Microplastic Detection.
 - **💼 Experience:** My internship and learning milestones.
 - **📞 Contact:** Let’s connect — LinkedIn, GitHub, or even a message.
-- **🤖 Jinii Bot:** An interactive chatbot that answers questions about me!
+- **🤖 Jinii Bot:** An interactive chatbot that answers questions about me!!
 
 ---
 
