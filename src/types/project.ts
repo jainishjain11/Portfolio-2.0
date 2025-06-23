@@ -10,4 +10,3 @@ export interface Project {
   liveLink?: string;
   githubRepo?: string;
 }
-

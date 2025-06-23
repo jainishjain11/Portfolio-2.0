@@ -13,7 +13,7 @@ import {
   SquareArrowOutUpRight,
 } from "lucide-react";
 import { Footer } from "@/components/Footer";
-import profilePic from "../../placeholder/Jainish_club.jpg";
+import profilePic from "../../placeholder/Jainish_cafe.jpg"; //Image to be changed here 
 import { useToast } from "../../hooks/use-toast";
 import Image from "next/image";
 import Link from "next/link";

@@ -123,4 +123,3 @@ const ParticlesBackground = ({ id, className }: ParticlesBackgroundProps) => {
 };
 
 export default ParticlesBackground;
-
