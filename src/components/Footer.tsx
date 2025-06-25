@@ -10,7 +10,7 @@ export const Footer = () => {
   const [isCopied, setIsCopied] = useState(false);
 
   const handleCopy = () => {
-    const email = "jainishofficial11@gmail.com"; // ✅ Your email
+    const email = "jainishjain.1105@gmail.com"; // ✅ Your email
     navigator.clipboard.writeText(email).then(() => {
       toast({
         title: "Email Copied!",
@@ -64,10 +64,10 @@ export const Footer = () => {
           </div>
           <div className="flex gap-2 items-center justify-center sm:justify-end">
             {[
-              { Icon: FileText, href: "https://drive.google.com/" }, // ✅ Your Resume link
+              { Icon: FileText, href: "https://drive.google.com/file/d/1mgw0uKpWr1ciRNeNsSnV1yV0yEW9QFrP/view?usp=sharing" }, // ✅ Your Resume link
               { Icon: Instagram, href: "https://www.instagram.com/jainishjain.11" }, // ✅ Your Instagram
               { Icon: Github, href: "https://github.com/jainishjain11" }, // ✅ Your GitHub
-              { Icon: Linkedin, href: "https://www.linkedin.com/in/jainish-jain-7364a228a" } // ✅ Your LinkedIn
+              { Icon: Linkedin, href: "https://www.linkedin.com/in/jainishjain11" } // ✅ Your LinkedIn
             ].map((social, index) => (
               <a
                 key={index}
