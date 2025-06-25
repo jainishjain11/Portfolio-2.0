@@ -10,7 +10,7 @@ export const Footer = () => {
   const [isCopied, setIsCopied] = useState(false);
 
   const handleCopy = () => {
-    const email = "jainishjain.1105@gmail.com"; // ✅ Your email
+    const email = "jainishjain.1105@gmail.com";
     navigator.clipboard.writeText(email).then(() => {
       toast({
         title: "Email Copied!",
