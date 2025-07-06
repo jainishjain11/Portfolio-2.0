@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import { Bot, Send } from 'lucide-react';
 
 const predefinedResponses: { [key: string]: string } = {
-  'Jainish Profile': `Jainish Jain's Profile\n\nName: Jainish Jain\nHe is a Computer Science student at SRM IST\nGitHub: https://github.com/jainishjain11\nLinkedIn: https://linkedin.com/in/jainish-jain-7364a228a\nInstagram: https://www.instagram.com/jainishjain.11/`,
+  'Jainish Profile': `Jainish Jain's Profile\n\nName: Jainish Jain\nHe is a Computer Science student at SRM IST\nGitHub: https://github.com/jainishjain11\nLinkedIn: https://linkedin.com/in/jainishjain11\nInstagram: https://www.instagram.com/jainishjain.11/`,
   'Education': 'Education:\n- 10th Grade: MDS Public School - 94%\n- 12th Grade: [Your School Name] - 75%\n- Pursuing: B.Tech in Computer Science at SRM Institute of Science and Technology, Current CGPA: 9.65 🎓.',
   'Hobbies and Interests': 'Hobbies and Interests:\n- Entrepreneurship and building startups\n- Playing percussion instruments (e.g., drums, Congo)\n- Coding and building side projects\n- Exploring AI/ML and Software Development\n- Watching memes and movies\n- Learning new frameworks and tools.',
   'Skills': 'Technical Skills:\nLanguages: C++, Python, Dart, JavaScript, TypeScript, Java\nFrameworks: Flutter, React.js, Next.js, Node.js\nTools: Firebase, Supabase, Hive, Prisma, Git, VS Code, Figma\n and more 🔧.',
