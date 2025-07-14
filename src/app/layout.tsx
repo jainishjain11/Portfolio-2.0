@@ -7,6 +7,7 @@ import { vmBotConfig } from "@/config/chatConfig";
 import { ThemeProvider } from "next-themes";
 import { Toaster } from "@/components/ui/toaster";
 import ParticlesBackground from "@/components/ParticlesBackground";
+import { Analytics } from "@vercel/analytics/next";
 
 const poppins = Poppins({
   variable: "--font-poppins",
