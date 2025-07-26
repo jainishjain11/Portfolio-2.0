@@ -64,7 +64,7 @@ export const Footer = () => {
           </div>
           <div className="flex gap-2 items-center justify-center sm:justify-end">
             {[
-              { Icon: FileText, href: "https://drive.google.com/file/d/1mgw0uKpWr1ciRNeNsSnV1yV0yEW9QFrP/view?usp=sharing" }, // ✅ Your Resume link
+              { Icon: FileText, href: "https://drive.google.com/file/d/1nU6oyHpgsEflDqbsvb-HWtKAjqnAE6AM/view?usp=sharing" }, // ✅ Your Resume link
               { Icon: Instagram, href: "https://www.instagram.com/jainishjain.11" }, // ✅ Your Instagram
               { Icon: Github, href: "https://github.com/jainishjain11" }, // ✅ Your GitHub
               { Icon: Linkedin, href: "https://www.linkedin.com/in/jainishjain11" } // ✅ Your LinkedIn
