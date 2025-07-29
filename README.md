@@ -1,6 +1,6 @@
 # 🚀 Jainish Jain's Developer Portfolio
 
-[![Website](https://img.shields.io/badge/Live%20Website-%F0%9F%94%8E-green)](https://jainish-portfolio-blond.vercel.app/)
+[![Website](https://img.shields.io/badge/Live%20Website-%F0%9F%94%8E-green)](https://jainishjain11-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/jainishjain11/portfolio-2.0)
 [![Made With](https://img.shields.io/badge/Built%20with-Next.js%20%26%20TailwindCSS-blueviolet)](#tech-stack)
 
