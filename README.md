@@ -59,7 +59,7 @@ I’ve added a custom-built chatbot to this portfolio — it answers FAQs about 
 ## 📬 Contact Me
 
 📧 **Email:** jainishjain.1105@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/jainish-jain-7364a228a](https://linkedin.com/in/jainishjain11)  
+🔗 **LinkedIn:** [linkedin.com/in/jainishjain11](https://linkedin.com/in/jainishjain11)
 🐙 **GitHub:** [github.com/jainishjain11](https://github.com/jainishjain11)  
 📸 **Instagram:** [@jainishjain.11](https://instagram.com/jainishjain.11)
 
