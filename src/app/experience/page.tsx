@@ -44,6 +44,13 @@ const experience: TimelineItem[] = [
     institution: "CSIR-Central Scientific Instruments Organisation (CSIO)",
     description: "Worked as a full stack developer on the ISTC-Seat Allocation Portal (official website).",
     icon: "star"
+  },
+  {
+    date: "1 Nov 2025 - 31 Dec 2025",
+    title: "Software Developer Intern",
+    institution: "Bluestock Pvt. Ltd.",
+    description: "Developed responsive and reusable UI components for stock market analytics dashboards",
+    icon: "star"
   }
 ]
 
