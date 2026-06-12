@@ -39,10 +39,20 @@ const education: TimelineItem[] = [
 
 const experience: TimelineItem[] = [
   {
-    date: "1 June 2025 - 15 July 2025",
-    title: "Summer Intern",
-    institution: "CSIR-Central Scientific Instruments Organisation (CSIO)",
-    description: "Worked as a full stack developer on the ISTC-Seat Allocation Portal (official website).",
+    date: "Jun 2026 – Present",
+    title: "AI/ML Research Intern",
+    institution:
+      "National Centre for Polar and Ocean Research (NCPOR), Ministry of Earth Sciences, India",
+    description:
+      "Conducting applied ML/DL research on Arctic Sea Ice variability and its teleconnective linkage with Indian heatwave events, working on a high-impact national climate intelligence problem.\n• Engineering LSTM-based time-series models to analyse multi-decadal sea ice extent data, identifying seasonal degradation patterns and anomalous melt signals correlated with extreme heat events over India.\n• Building end-to-end data preprocessing pipelines in Python to ingest, clean, and transform large-scale geospatial and climate datasets, enabling robust model training and reproducible analytical workflows.",
+    icon: "star"
+  },
+  {
+    date: "Jun 2025 – Jul 2025",
+    title: "Summer Research Intern",
+    institution: "CSIR–Central Scientific Instruments Organisation",
+    description:
+      "Engineered a scalable backend allocation algorithm that reduced processing time for large datasets, delivering measurable performance improvements on a production research system.\n• Optimized SQL queries via advanced indexing and JOIN strategies, improving throughput for heavy read/write workloads– directly applicable to debugging and scaling backend systems at production SaaS scale.\n• Designed relational database schemas from scratch to support data-intensive operations, owning the full data layer end-to-end with minimal supervision.",
     icon: "star"
   },
   {
@@ -80,7 +90,7 @@ const TimelineSection = ({
             </span>
             <h3 className="text-xl font-semibold">{item.title}</h3>
             <p className="text-zinc-500 dark:text-zinc-400">{item.institution}</p>
-            <p className="text-zinc-600 dark:text-zinc-300">{item.description}</p>
+            <p className="text-zinc-600 dark:text-zinc-300 whitespace-pre-line">{item.description}</p>
           </div>
         </div>
       ))}

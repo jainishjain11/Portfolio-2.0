@@ -14,8 +14,9 @@ export const ProjectCard: React.FC<{ project: Project }> = ({ project }) => {
             <Icon className="h-6 w-6" />
           </div>
           <div>
-            <div className="font-medium text-zinc-900 dark:text-white">
-              {project.name}
+            <div className="flex items-center gap-2 font-medium text-zinc-900 dark:text-white">
+              <span className="text-sm text-zinc-500 dark:text-zinc-400">{project.id}.</span>
+              <span>{project.name}</span>
             </div>
             <div className="text-sm text-zinc-600 dark:text-gray-400">
               {project.tags?.join(", ")}
